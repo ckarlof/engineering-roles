@@ -14,11 +14,11 @@ Principal Architect
 ### Is expected to
 ### Technical
 * Teach and mentor engineers in technical and non-technical growth and learning. Be a sponsor for engineers’ development. Areas included but not limited to:
-** architecture
-** end-to-end problem solving
-** system-wide debugging
-** learning new technologies or approaches
-** communicating technical items to others 
+   * architecture
+   * end-to-end problem solving
+   * system-wide debugging
+   * learning new technologies or approaches
+   * communicating technical items to others 
 * Present about technical architecture practices and hold training sessions monthly
 * Regularly participate in architecture and code reviews and provide clear, actionable feedback 
 * Consult with engineers and product on technical solutions and drive high quality software decisions
