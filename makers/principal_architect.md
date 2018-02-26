@@ -22,7 +22,7 @@ Principal Architect
 * Present about technical architecture practices and hold training sessions monthly
 * Regularly participate in architecture and code reviews and provide clear, actionable feedback 
 * Consult with engineers and product on technical solutions and drive high quality software decisions
-* Regularly attend multiple discipline guild meetings and provide architecture and engineering recommendations 
+* Regularly attend multiple discipline collective meetings and provide architecture and engineering recommendations 
 * Work with engineers on breaking down large technical projects into smaller pieces so teams can deliver with improved speed and quality
 * Be active in the engineering community to help grow the Meetup engineering brand through presenting at conferences and meetups, blogging, open sourcing, and more 
 
