@@ -6,7 +6,7 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 * [Engineer](makers/engineer.md)
 * [Senior Engineer](makers/senior_engineer.md)
 * [Staff Engineer](makers/staff_engineer.md)
-* Senior Staff Engineer
+* [Senior Staff Engineer](makers/senior_staff_engineer.md)
 * [Principal Engineer](makers/principal_engineer.md)
 * [Principal Architect](makers/principal_architect.md)
 
