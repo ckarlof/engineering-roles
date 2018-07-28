@@ -1,7 +1,7 @@
 Principal Engineer
 ==================
  
-*Same as Staff Engineer, but also...*
+*Same as Senior Staff Engineer, but also...*
  
 ### Should have
 * Expert knowledge of their practice area's stack (mobile/web/core/data/ml/infra/QA)
