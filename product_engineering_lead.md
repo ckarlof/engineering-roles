@@ -19,6 +19,7 @@ Product Engineering Lead
 * Work with product manager for prioritizing, breaking down, estimating, and assigning tasks
 * Enact improvements to product team’s engineering process as needed
 * Have regularly scheduled 1-on-1 with other engineers on product team
+* Be accountable for architectural decisions being made by the team in a way that incorporates feedback and communicates the plan appropriately
 * Remove roadblocks for other engineers on team, to allow them to work most effectively
 * Coordinate with leads on other teams when cross-team work is necessary, or when a project might have cross-team implications
 * Coordinate with QA to make sure that bugs are looked at with appropriate importance, and to resolve any technical or product issues that show up at this step
