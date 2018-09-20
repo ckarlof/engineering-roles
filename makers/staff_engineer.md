@@ -18,7 +18,7 @@ Staff Engineer
 * Demonstrate expert knowledge of their discipline
 * Remain flexible & put customer needs first 
 * Accurately estimate time to complete projects given structure of team and deliver on those estimates
-* Allocate resources within a team to maximise output of useful and team-goal-focused engineering work
+* Allocate people within a team to maximise output of useful and team-goal-focused engineering work
 * Monitor performance of engineers on team, and partner with engineering managers on mentoring and growth
 * Look for ways to reduce distractions, interruptions, and unplanned work for themselves and others 
 * Challenge their team to demonstrate greater sense of urgency
