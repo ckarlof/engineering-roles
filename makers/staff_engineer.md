@@ -4,7 +4,7 @@ Staff Engineer
 *Same as Senior Engineer, but also...*
 
 ### Should have
-* The ability to take a nebulous project, talk to the right people, define it, split it up into tasks, and ultimately get it done quickly and efficiently
+* The ability to take a nebulous project, talk to the right people, architect a solution, split it up into tasks, and ultimately get it done quickly and efficiently
 * The respect and trust of other engineers within the company as strong technical leaders and mentors for others
 * The ability to diagnose, fix, and coordinate deployment of bug fixes (and do this extremely quickly in emergency situations)
 * A reputation for submitting maintainable code that is well tested for review and QA

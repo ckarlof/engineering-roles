@@ -23,7 +23,7 @@ Senior Engineer
 * Be highly productive - have a reputation for getting things done quickly and efficiently
 * Be a mentor for other engineers
 * Require very little oversight from manager/team leads
-* Own and complete full projects including the design/architecture, and feel confident making a final decision as the owner of a project
+* Own and complete full projects beginning with identifying and communicating the problems to be solved, getting and incorporating feedback on proposed architectural solutions, and making a final decision as the owner of a project.
 * Deconstruct a problem into an executable action plan for themselves and other engineers - also perform them in a high quality way without issue
 * Consistently tie back a project to a team goal
 * Set and maintain high individual and team expectations
