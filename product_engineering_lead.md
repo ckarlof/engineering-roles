@@ -1,10 +1,10 @@
-Product Engineering Lead
+Engineering Lead
 ========================
 
-*A PEL is a formal role that is added to an engineer’s normal responsibilities.  Becoming a PEL does not result in a change in title, and people can switch in and out of this role on different teams based on what is the best fit for the team and individual at that time.*
+*An Engineering Lead is a formal role that is added to an engineer’s normal responsibilities.  Becoming an EL does not result in a change in title, and people can switch in and out of this role on different teams based on what is the best fit for the team and individual at that time.*
 
 ## Should have
-* An explicit interest in Product Engineering
+* An explicit interest in Engineering Leadership
 * Developing outward facing ‘features’ versus just technical improvements
 * Developing features with a mind towards how they will be consumed by an end user and the overall user experience
 * The ability to communicate well with people from all areas of the company, especially Product, Design, and Engineering
