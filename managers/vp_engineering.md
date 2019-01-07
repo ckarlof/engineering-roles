@@ -13,7 +13,7 @@ VP, Engineering
 ### Is expected to 
 #### Results
 * Focus on ensuring that all engineering effort is in service of Meetup achieving our company key results as fast and as well as possible by coordinating, aligning, and monitoring ongoing engineering execution across product or platform engineering
-* Work with Product and Strategy leadership to understand product roadmaps, requirements, and timelines
+* Work with Product and Business leadership to understand product roadmaps, requirements, and timelines
 * Develop,maintain, and communicate an overall execution plan for engineering teams. Manage team resourcing process and strategic plans to meet  future vision, strategy, and priorities
 * Design processes for smooth operations, fast execution, and clear decisions, and communicate expectations, decisions, and changes to all stakeholders
 * Work with Product and Engineering to ensure that teams are setting aggressive objectives and key results, and that they are delivering on results
@@ -26,7 +26,7 @@ VP, Engineering
  
 #### Strategy
 * Work closely with the CTO to communicate the priorities of the engineering team to company leadership, defining objectives and key results, and ensuring alignment across the company
-* Partner with Leadteam, CTO, Product, and Strategy to help design and clearly communicate a coordinated company vision, strategy, and priorities that every member of the engineering team understands
+* Partner with Leadteam, CTO, Product, and Business to help design and clearly communicate a coordinated company vision, strategy, and priorities that every member of the engineering team understands
 * Partner with CTO to translate product and engineering vision, strategy, and priorities to clear and actionable platform engineering roadmap, objectives, and key results and frequently communicate out to the engineering team
 * Work with Engineering leadership to define, execute, and align on a unified technology strategy
 * Ensure engineers are empowered to accomplish technical projects that improve total product or platform health, while simultaneously balancing strategic product and platform engineering priorities
