@@ -2,13 +2,12 @@ Engineering Manager
 ===================
 
 ### Should have
-* A few years experience mentoring engineers
-* Top notch communication skills with other engineers and product/design
-* Experience managing engineering timelines for large projects
-* A deep understanding of how engineering and product teams are put together
-* A desire to focus on managing people
-* A deep interest in being the face of Meetup culture for their team
-* Ability to generate support for a company/team decision
+* A few years experience as a tech/team lead or mentoring engineers
+* A solid understanding of how engineering teams work and collaborate with other functions (QA, product, UX, marketing, release management, etc.)
+* Top notch communication skills with engineers and people in other functions (QA, product, UX, marketing, release management, etc.)
+* Experience managing engineering work breakdowns, timelines, and dependencies for complex projects
+* A desire to focus on growing and learning as manager, growing and developing others, and getting results through others rather than personal technical proficiency
+* Willingness and ability to support others navigate a challenging decision or change in the company/team
 * Curiosity to learn and understand what they don’t know
 
 ### Is expected to
@@ -50,5 +49,5 @@ Engineering Manager
     * Identify ways to reduce distractions, interruptions, and unplanned work for themselves and others
     * Synthesize complex information and diverse points of view into clear and compelling decisions and communications
 * Lead recruitment efforts by finding recruitment opportunities and motivating engineers to speak, do presentations, write blog posts, and contribute to open source projects (and do so oneself!)
-* Manage professional development  budget for direct reports (both time and $$), approve/deny requests
+* Manage professional development budget for direct reports (both time and $$), approve/deny requests
 * Create compensation change recommendations and share with directors
