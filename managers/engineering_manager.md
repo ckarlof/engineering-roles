@@ -1,7 +1,7 @@
 Engineering Manager
 ===================
 
-### Should have
+### Requirements
 * A few years experience as a tech or team lead
 * A solid understanding of how engineering teams work and how they collaborate with other functions (QA, product, UX, marketing, release management, etc.)
 * Top notch communication skills with engineers and people in other functions (QA, product, UX, marketing, release management, etc.)
@@ -10,7 +10,7 @@ Engineering Manager
 * Willingness and ability to support others navigate a challenging decision or change in the company/team
 * Curiosity to learn and understand what they don’t know
 
-### Is expected to
+### Expectations
 #### Results
 * Team routinely delivers quality code that meets product requirements, delivery dates, and quality standards.
 * Partner with recruiting to successfully recruit, hire, and onboard new engineers for your team in a timely manner.
