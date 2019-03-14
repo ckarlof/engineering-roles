@@ -7,7 +7,6 @@ Senior Engineer
 *Successfully demonstrated the job expectations for the role of an Engineer at Mozilla or equivalent role elsewhere. Additionally you should have:*
 * Performed work that was evaluated to be done at ‘high quality’ by colleagues for meeting the engineering and product requirements.
 * Succeeded as an engineer when presented with projects of increasing complexity over time across multiple areas or domains of the code/product.
-* Demonstrated your ability to learn from mistakes.
 * Demonstrated your ability to unblock yourself and other team members.
 * Earned respect because you are trusted to deliver on your commitments.
 * Shown a high level of understanding about where your work fits into your team's and organization's objectives.
@@ -16,8 +15,8 @@ Senior Engineer
 
 ### Job expectations
 #### Results
-*Focus on understanding what you need to ship and why.  Clearly communicate how you intend to deliver user value with reasonably accurate estimates.*
-* Become an expert with multiple areas or domains of the code/product.
+*Focus on understanding what you need to ship and why. Clearly communicate how you intend to deliver user value with reasonably accurate estimates.*
+* Build your expertise with multiple areas or domains of the code/product.
 * Show curiosity to not only learn new things but fully understand how they work.
 * Be consistently productive; have a reputation for getting things done efficiently to iteratively delivery value.
 * Be trusted to work independently because you are collaborative by nature and communicate proactively.
@@ -41,8 +40,8 @@ Senior Engineer
 
 * Identify areas of professional growth that will make both you and your team more adaptable.
 * Retrospect on the outcomes of your projects in order to learn from mistakes and replicate successes.
-* Pay attention to the error rates of the products you deliver.  Put in the work to assure that your logs are not filled with *known errors*; act quickly to resolve errors as they are reported.
+* Pay attention to the error rates of your production code. Put in the work to assure that your logs don't have known errors; act quickly to resolve errors.
 * Periodically assess team standards and process; drive improvements and help eliminate outdated practices that are no longer useful.
 * Feedback is a gift; give direct and actionable feedback thoughtfully to all of your colleagues.
-* Look for opportunities to mentor junior engineers through internships, GSOC or ourtreachy programs.
+* Look for opportunities to mentor junior engineers through internships, GSOC or outreachy programs.
 * Interview prospective candidates and provide thoughtful evaluations and feedback.
