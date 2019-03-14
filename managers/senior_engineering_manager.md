@@ -22,6 +22,8 @@ Senior Engineering Manager
 * Seek an understanding of what other teams do, share knowledge, and encourage others to do the same.
 * Guide the quality & testing strategy on their teams
 
+* Continuously improve our interview and hiring processes.
+
 #### Results 
 * Guide their teams to set OKRs and realistic delivery goals
 * Monitor engineering execution and delivery across teams, identify risks and solutions, and drive improvements with engineers, leads & managers.
