@@ -4,7 +4,7 @@ Engineering Manager
 ### Should haves
 * A few years experience as a tech or team lead
 * An understanding of how engineering teams work and how they collaborate with other functions (QA, product, UX, marketing, release management, etc.)
-* Solid communication skills with engineers and people in other functions (QA, product, UX, marketing, release management, etc.)
+* Solid communication skills, particularly the ability to actively listen
 * Experience managing engineering work breakdowns, timelines, and dependencies for complex projects
 * A desire to grow and learn as a manager, grow and develop others, and get results through others rather than personal technical proficiency
 * Willingness and ability to support others navigate a challenging decision or change in the company/team
@@ -15,7 +15,7 @@ Engineering Manager
 #### Management
 * Be accountable for your team's goals and responsibilities and see them through to completion
     * Build a team that routinely delivers code to product requirements, delivery dates, and quality standards.
-    * Provide your engineers clear direction and accountability
+    * Provide your engineers clear direction and accountability, and hold them accountable without micromanaging
     * Create and align team’s and individual's short and long term objectives based on team and company goals 
     * Proactively manage risk and help fix project delays & issues
     * Maintain and improve processes for tracking project timelines and success metrics
@@ -28,7 +28,7 @@ Engineering Manager
 * Build a capable, inclusive, and cohesive team, and check in regularly to understand overall morale; work to repair misunderstandings
     * Ensure that engineers are building trust and are not isolated
     * Build team behaviors that put user and customer needs first
-* Provide timely, specific feedback to your engineers, and support them in their growth and development.
+* Be a good coach; provide timely, specific feedback to your engineers, and support them in their growth and development.
     * Communicate regularly with Product Managers/Engineering Leads to collect performance and collaboration feedback
     * Guide engineers to build their own feedback loops & provide direct, constructive & timely feedback to each other
     * Identify engineers who are on track for promotion, incorporate skill development to professional development plans and recommend engineers for promotion to your manager
