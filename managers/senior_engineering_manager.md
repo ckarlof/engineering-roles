@@ -2,29 +2,27 @@ Senior Engineering Manager
 ===================
 *Same as Manager, but also...*
 ### Should haves
-* Experience managing engineers and leading multiple teams through tech leads or other managers
-* Experience and a deep interest in leading initiatives for improving engineering culture, values, process, speed, quality, execution, and delivery.
-* Experience leading recruiting initiatives, as well as growing and organizing multiple engineering teams.
-* A desire to navigate and lead teams through ambiguous situations, tackle complex issues, and align strategy with company priorities
-* A desire to manage managers and manage engineering leads
-* A desire to tackle complex issues involving multiple stakeholders
+* Experience managing engineering teams through tech leads or other managers
 * Experience managing collaborations and competing priorities across more than one team
+* Experience leading initiatives for improving engineering culture, values, process, speed, quality, execution, and delivery
+* Experience leading recruiting initiatives, as well as growing and organizing engineering teams
+* A desire to navigate and lead teams through ambiguous situations, tackle complex issues with multiple stakeholders, and align strategy with company priorities
+* A desire to grow and develop managers and engineering leads
 
 ### Job expectations
 
-#### Results
+#### Management
+* Manage more than one engineering team, through other managers or tech leads, and be accountable for their goals and responsibilities
+* Provide your leads and managers clear direction and accountability, and hold them accountable without micromanaging
+* Delegate ownership and authority to your leads and managers, not simply tasks
+
 
 #### Leadership
 * Coach their teams’ leaders to ensure every engineer on their teams understands why their project is important to their company goals.
 * Guide engineering leads to create & communicate the vision, high level roadmap & technical strategy for their business unit. Use data and analysis to align their strategy with company priorities.
 * Guide the engineering leads to ensure the architecture of their teams fits the goals of their business unit as well as the best practices set out by the collectives.
-
-
-#### Management 
-* Work with engineering leads and managers to allocate resources in their control, and advocate with company leadership for needed resources.
-* Work with engineering leads & engineering managers to create & improve process for prioritizing, breaking down, estimating, and assigning tasks. Coach engineering leads & engineers to deconstruct problems into executable action.
-* Guide the quality & testing strategy on their teams
-* Continuously improve our interview and hiring processes.
+    * Work with your engineering leads & engineering managers to create & improve process for prioritizing, breaking down, estimating, and assigning tasks.
+    * Work with engineering leads and managers to allocate resources in their control, and advocate with company leadership for needed resources.
 
 #### Relationships
 * Seek an understanding of what other teams do, share knowledge, and encourage others to do the same.
