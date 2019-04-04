@@ -1,6 +1,9 @@
 Senior Engineering Manager
 ===================
-*Same as Manager, but also...*
+
+*Lead more than one team or project of higher complexity, manage through tech leads or other managers, and help solve problems affecting the broader organization.* 
+
+*Same as Engineering Manager, but also...*
 ### Should haves
 * Experience managing engineering teams through tech leads or other managers
 * Experience managing collaborations and competing priorities across more than one team
@@ -28,6 +31,6 @@ Senior Engineering Manager
 * Present a professional face for your teams to others in the organizaton
 * Build strong relationships with your peers and senior leaders across the organization
 * Seek out how you can be helpful to other teams, help celebrate their successes, and share knowledge among different teams and functions 
-* Seek out opportunities to solve problems that would benefit the broader organization
-* Debug and address problems directly with your peers without involving your boss, such as unclear requirements from your product manager or late dependencies from peers
+* Seek out opportunities to solve problems that affect the broader organization
+* Debug and address routine problems directly with your peers without typically involving your boss, such as unclear requirements from your product manager or late dependencies from peers
 * Be open to coaching, with an eye towards developing senior leadership skills
