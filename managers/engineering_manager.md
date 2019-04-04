@@ -1,7 +1,7 @@
 Engineering Manager
 ===================
 
-*Lead a team with a focused mission, and deliver through the technical accomplishments of others rather than your own.*
+*Lead a team with a focused mission, and deliver results through the technical accomplishments of others rather than your own.*
 
 ### Should haves
 * A few years experience as a tech or team lead
