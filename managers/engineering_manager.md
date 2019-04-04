@@ -1,6 +1,8 @@
 Engineering Manager
 ===================
 
+*Lead a team with a focused mission, and deliver through the technical accomplishments of others rather than your own.*
+
 ### Should haves
 * A few years experience as a tech or team lead
 * An understanding of how engineering teams work and how they collaborate with other functions (QA, product, UX, marketing, release management, etc.)
