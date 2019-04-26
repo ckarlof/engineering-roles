@@ -9,7 +9,7 @@ Engineering Manager
 * Solid communication skills, particularly the ability to actively listen
 * Experience managing engineering work breakdowns, timelines, and dependencies for complex projects
 * A desire to grow and learn as a manager, grow and develop others, and get results through others rather than personal technical proficiency
-* Willingness and ability to support others navigate a challenging decision or change in the company/team
+* Willingness and ability to support others navigating a challenging decision or change in the company/team
 * Curiosity to learn and understand what you don’t know
 
 ### Job expectations
