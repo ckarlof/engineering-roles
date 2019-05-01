@@ -1,7 +1,7 @@
 Senior Engineering Manager
 ===================
 
-*Lead more than one team or project of higher complexity, manage through tech leads or other managers, and help solve problems affecting the broader organization.* 
+*Lead multiple engineering teams/projects of higher complexity, manage through tech leads or other managers, and help solve problems affecting the broader organization.*
 
 *Same as Engineering Manager, but also...*
 ### Should haves
@@ -15,7 +15,8 @@ Senior Engineering Manager
 ### Job expectations
 
 #### Management
-* Manage more than one engineering team, through other managers or tech leads, and be accountable for their goals and responsibilities
+* Manage more than one engineering team/project, through other managers or tech leads, and be accountable for their goals and responsibilities
+* Manage projects with a higher than average level of complexity, impact, and scope
 * Run well-oiled teams; monitor engineering execution, dependencies, and delivery across teams, identify risks and solutions, and drive improvements with your leads and managers
 * Provide your leads and managers clear direction, goals, and accountability, and hold them accountable without micromanaging; align each of your team's goals with those of the broader organization
 * Delegate ownership and authority to your leads and managers, not simply tasks
