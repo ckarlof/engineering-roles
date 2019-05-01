@@ -1,10 +1,10 @@
 Engineering Manager
 ===================
 
-*Lead a team with a focused mission, and deliver results through the technical accomplishments of others rather than your own.*
+*Lead a team of 4-8 engineers with a focused mission, and deliver results through the technical accomplishments of others rather than your own.*
 
 ### Should haves
-* A few years experience as a tech or team lead
+* A few years experience as a tech or team lead, with sufficient technical experience to guide your team
 * An understanding of how engineering teams work and how they collaborate with other functions (QA, product, UX, marketing, release management, etc.)
 * Solid communication skills, particularly the ability to actively listen
 * Experience managing engineering work breakdowns, timelines, and dependencies for complex projects
@@ -17,8 +17,8 @@ Engineering Manager
 #### Management
 * Be accountable for your team's goals and responsibilities and see them through to completion
     * Build a team that routinely delivers code to product requirements, delivery dates, and quality standards.
-    * Provide your engineers clear direction and accountability, and hold them accountable without micromanaging
     * Create and align team’s and individual's short and long term objectives based on team and company goals 
+    * Provide your engineers clear direction, context, and accountability, and hold them accountable without micromanaging
     * Proactively manage risk and help fix project delays & issues
     * Maintain and improve processes for tracking project timelines and success metrics
 * Identify ways to reduce distractions, interruptions, and unplanned work for the team; debug and solve workflow problems in your team's processes
@@ -27,10 +27,11 @@ Engineering Manager
 * Make supportable bonus, compensation change, and promotion recommendations for your engineers to your manager
 
 #### Leadership
-* Build a capable, inclusive, and cohesive team, and check in regularly to understand overall morale; work to repair misunderstandings
+* Build a capable, inclusive, and collaborative team, and check in regularly to understand overall morale; work to repair misunderstandings
     * Ensure that engineers are building trust and are not isolated
+    * Foster a culture where differences are addressed productively and respectfully
     * Build team behaviors that put user and customer needs first
-* Be a good coach; provide timely, specific feedback to your engineers, and support them in their growth and development.
+* Be a good coach; provide timely, specific, and actionable feedback to your engineers, and support them in their growth and development.
     * Communicate regularly with Product Managers/Engineering Leads to collect performance and collaboration feedback
     * Guide engineers to build their own feedback loops & provide direct, constructive & timely feedback to each other
     * Identify engineers who are on track for promotion, incorporate skill development to professional development plans and recommend engineers for promotion to your manager
