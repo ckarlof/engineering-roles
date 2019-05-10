@@ -3,33 +3,44 @@ Senior Engineer
 
 *Same as Engineer, but also...*
 
-### Should have
+### Should haves
 
-* Successfully performed the role of an Engineer at Meetup or equivalent role elsewhere
-* Performed work that was evaluated to be done at ‘high quality’ by peers
-* Succeeded as an engineer when presented with projects of increasing complexity over time across multiple areas or domains of the code/product
-* Demonstrated ability to learn from mistakes
-* Demonstrated ability to unblock themselves and other team members  
-* Earned a high level of trust amongst team to own a task/project without needing much supervision
-* Shown they take responsibility for their code: follow through with it and address any issues that result from it in the future
-* A high level of understanding about where their work fits in and how to be useful and successful on their team
-* A high level of craftsmanship about their work, the end experience of the user, and impact on overall product
-* Demonstrated good communication skills with other engineers and teammates, including being productive with their emotions; proposes solutions when articulating problems
+* Success delivering projects of increasing complexity over time across multiple areas or domains of the code/product.
+* The ability to unblock yourself and other team members.
+* Respect from your peers because you are trusted to deliver on your commitments.
+* A high level of understanding about where your work fits into your team and organizational objectives.
+* A desire to ship well-crafted code which highlights your professionalism in its consideration for the user experience and positive impact on the team objectives.
+* Skills writing and speaking with awareness of how words can be perceived and empathy towards all involved in a discussion.
 
-### Is expected to
-
-* Become an expert with multiple areas or domains of the code/product
-* Show curiosity to not only learn new things but fully understand how they work 
-* Be highly productive - have a reputation for getting things done quickly and efficiently
-* Be a mentor for other engineers
-* Require very little oversight from manager/team leads
+### Job expectations
+#### Results
+*Focus on understanding what you need to ship and why. Clearly communicate how you intend to deliver user value with reasonably accurate estimates.*
+* Build your expertise with multiple areas or domains of the code/product.
+* Be consistently productive; have a reputation for getting things done efficiently to deliver value iteratively.
+* Be trusted to work independently because you are collaborative by nature and communicate proactively.
+* Understand how your projects tie back to the team goals.
 * Own and complete full projects beginning with identifying and communicating the problems to be solved, getting and incorporating feedback on proposed architectural solutions, and making a final decision as the owner of a project.
-* Deconstruct a problem into an executable action plan for themselves and other engineers - also perform them in a high quality way without issue
-* Consistently tie back a project to a team goal
-* Set and maintain high individual and team expectations
+* Breakdown the implementation of a project into issues and plan the work into milestones.
+
+#### Relationships
+*Focus on building your reputation within and across teams as a trusted collaborator who provides valuable feedback and is unafraid to make decisions and clearly communicate their rational.*
+
+* Mentor other engineers and assist with onboarding team members into product areas where you have expertise.
 * Actively participate in frequent code/design/architecture reviews
-* Be able to communicate well with all engineers regardless of seniority
-* Generate support for a company/team decision
-* Work across engineering teams (dev, QA, systems) to ensure new code launches smoothly and customer needs are met
-* Monitor the outcomes of team’s actions to learn from mistakes and replicate successes
-* Interview prospective candidates and provide thoughtful evaluations and feedback
+* Be able to communicate well with all colleagues regardless of seniority.
+* Demonstrate confidence when raising potential risks.
+* Clearly communicate alternative viewpoints with objective justifications.
+* Understand the operational impact of your changes and collaborate with the Operations team for the productionizing of your changes as needed.
+* Understand the security impacts of your changes and work closely with the Security team to conduct reviews and mitigate risks.
+* Understand the business value of your projects and partner with your PM and Data engineer to contribute to accurate analytics and measurements.
+
+
+#### Resilience
+*Focus on building the quality of your work and your team's strengths such that you are prepared to handle the unexpected. You (and the products you build) are adaptable, responding gracefully to difficult situations.*
+
+* Identify areas of professional growth that will make both you and your team more adaptable.
+* Pay attention to the error rates of your production code. Put in the work to assure that your logs don't have known errors; act quickly to resolve errors.
+* Drive improvements to enhance software engineering process and procedures and eliminate outdated practices that are no longer useful.
+* Feedback is a gift; give direct and actionable feedback thoughtfully to all of your colleagues.
+* Look for opportunities to mentor junior engineers through internships, GSOC or outreachy programs.
+* Interview prospective candidates and provide thoughtful evaluations.
